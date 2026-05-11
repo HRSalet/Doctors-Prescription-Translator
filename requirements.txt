@@ -1,0 +1,14 @@
+streamlit
+langchain
+langgraph
+langchain-groq
+python-dotenv
+opencv-python
+pillow
+easyocr
+pydantic
+sqlalchemy
+faiss-cpu
+sentence-transformers
+langchain-community
+langchain-huggingface
